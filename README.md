@@ -1,7 +1,7 @@
 # cheapmon/sudoku
 
 A fast sudoku solver written in C++.
-Solves 56 puzzles in just under 1 second.
+Solves 56 puzzles in just under half a second.
 
 ## Building
 ```
